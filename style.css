@@ -77,6 +77,6 @@ select {
     background-color: #671678;
     
 }
-.color{
-    
+.mt-n1 {
+  margin-top: -0.25rem !important;
 }
