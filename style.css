@@ -1,8 +1,45 @@
 
+.color-background {
+  background-color:#0E151B !important ;
+}
+.color-primary {
+  background-color:#2F2F56 !important ;
+}
+.color-secondary {
+  background-color:#191221 !important ;
+}
+.color-accent {
+  background-color:#7F5BA4 !important ;
+}
 
-.bg-accent {
-    background-color: #671678 !important;
-    
+.fs-primary { 
+  color:#2F2F56 !important ;
+}
+.fs-accent{
+  color:#7F5BA4 !important ;
+}
+
+.bg-home {
+  background-image: url(assets/home__img.gif);
+  width: auto;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.spacer {
+  aspect-ratio: 960/540;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.layer-1{
+  background-image: url(assets/wave-1.svg);
+}
+.layer-2 {
+  background-image: url(assets/wave-2.svg);
+}
+.layer-3 {
+  background-image: url(assets/wave-3.svg);
 }
 
 .mt-n1 {
